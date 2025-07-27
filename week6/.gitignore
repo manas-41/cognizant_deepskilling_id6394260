@@ -1,0 +1,14 @@
+# Ignore dependencies for all projects
+**/node_modules/
+
+# Ignore build artifacts
+**/build/
+**/dist/
+**/coverage/
+
+# Ignore system and log files
+*.log
+.DS_Store
+
+# Ignore environment variable files
+**/.env
